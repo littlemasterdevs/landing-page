@@ -1635,7 +1635,7 @@
                                             children: [
                                               
                                               Object(c.jsx)("b", {
-                                                children: "\u20b91,500/-",
+                                                children: "\u20b9999/-",
                                               }),
                                               " for 1 Month",
                                             ],
