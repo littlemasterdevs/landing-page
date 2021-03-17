@@ -824,7 +824,7 @@ a {
   width: 350px;
   padding-bottom: 15px;
   max-width: calc(100vw - 40px);
-  min-height: 340px;
+  min-height: 390px;
   background-color: #fff;
   border-radius: 5px;
   overflow: hidden;
@@ -864,7 +864,7 @@ a {
   transition: all 0.51s var(--g-ease);
 }
 .btn-buy-sub-2{
-margin-top: 30px !important;
+margin-top: 50px !important;
 padding: 10px 35px;
 border-radius: 5px;
 color: #fff;
@@ -934,6 +934,7 @@ transition: all 0.51s var(--g-ease);
 .block-9 .plans-list ul li:nth-child(2) .card .content p {
   font-size: 14px;
   margin: 10px auto 4px;
+  padding-top: 5px;
 }
 .block-9 .plans-list ul li:nth-child(2) .card .content .p1 {
   width: 100px;
@@ -945,6 +946,8 @@ transition: all 0.51s var(--g-ease);
 .block-9 .plans-list ul li:nth-child(2) .card .content .p2 {
   font-size: 20px;
   margin: 10px auto;
+  padding-top: 15px;
+  padding-bottom: 10px;
 }
 .block-9 .plans-list ul li:nth-child(2) .card .content .strikethrough {
   position: relative;

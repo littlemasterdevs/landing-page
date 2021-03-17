@@ -1557,7 +1557,7 @@
                                                 Object(c.jsx)("p", {
                                                   style: { fontSize: "10px" },
                                                   children:
-                                                    "per class price \u20b9562",
+                                                    "per class price \u20b91,230",
                                                 }),
                                                 // Object(c.jsx)("p", {
                                                 //   children: "(12 weeks)",
