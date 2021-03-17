@@ -1502,7 +1502,7 @@
                                               children: [
                                                 Object(c.jsx)("b", {
                                                   className: "p2",
-                                                  children: "Group (1:6)",
+                                                  children: "Standard Interactive (1:6)",
                                                 }),
                                                 Object(c.jsxs)("p", {
                                                   className: "flat p2",
@@ -1511,7 +1511,7 @@
                                                     "Starting from\n ",
                                                 }),
                                                     Object(c.jsx)("b", {
-                                                      style: { fontSize: "20px" },
+                                                      style: { fontSize: "21px" },
                                                       children: "\u20b913,500/-",
                                                     }),
                                                   
@@ -1520,18 +1520,27 @@
                                                   children:
                                                     "for 3 months - 24 sessions",
                                                 }),
+                                                Object(c.jsx)("p", {
+                                                  style: { fontSize: "10px" },
+                                                  children:
+                                                    "per class price \u20b9562",
+                                                }),
                                               ],
                                             }),
+
                                             Object(c.jsxs)("div", {
                                               className: "col-6",
+                                              style: {marginTop: "15px"},
                                               children: [
+
                                                 Object(c.jsx)("b", {
                                                   className: "p2",
-                                                  children: "Private (1:1)",
+                                                  
+                                                  children: "Personalised (1:1)",
                                                 }),
                                                 Object(c.jsxs)("p", {
                                                   className: "flat p2",
-                                                  style: { fontSize: "12px" },
+                                                  style: { fontSize: "12px",paddingTop: "10px" },
                                                   children: 
                                                     "Starting from\n ",
                                                 }),
@@ -1544,6 +1553,11 @@
                                                 Object(c.jsx)("p", {
                                                   children:
                                                     "for 3 months - 24 sessions",
+                                                }),
+                                                Object(c.jsx)("p", {
+                                                  style: { fontSize: "10px" },
+                                                  children:
+                                                    "per class price \u20b9562",
                                                 }),
                                                 // Object(c.jsx)("p", {
                                                 //   children: "(12 weeks)",
@@ -1635,7 +1649,7 @@
                                             children: [
                                               
                                               Object(c.jsx)("b", {
-                                                children: "\u20b9999/-",
+                                                children: "\u20b91,500/-",
                                               }),
                                               " for 1 Month",
                                             ],
