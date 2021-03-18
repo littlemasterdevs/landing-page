@@ -1138,7 +1138,7 @@
                         children: [
                           Object(c.jsx)("h3", {
                             children:
-                              "Discover something new every week with our free LittleWebinars!",
+                              "Discover something new every week with our free Little Webinars!",
                           }),
                           Object(c.jsx)("p", {
                             children:
@@ -1198,17 +1198,17 @@
                                       children: [
                                         Object(c.jsx)("p", {
                                           className: "title",
-                                          children: "Gardening for kids",
+                                          children: "Bharatanatyam",
                                         }),
                                         Object(c.jsx)("p", {
                                           children: Object(c.jsx)("small", {
                                             children: Object(c.jsxs)("b", {
                                               children: [
-                                                "28",
+                                                "20",
                                                 Object(c.jsx)("sup", {
                                                   children: "th",
                                                 }),
-                                                " FEB | 5 PM",
+                                                " MARCH | 11.30 AM",
                                               ],
                                             }),
                                           }),
@@ -1218,7 +1218,7 @@
                                             children: [
                                               "BY ",
                                               Object(c.jsx)("b", {
-                                                children: "Namita",
+                                                children: "Priyanka",
                                               }),
                                             ],
                                           }),
@@ -1227,7 +1227,7 @@
                                           className:
                                             "btn-rn typeform-share button",
                                           href:
-                                            "https://linktr.ee/LittleMaster",
+                                            "https://form.typeform.com/to/XptehQmk",
                                           "data-mode": "popup",
                                           "data-size": "100",
                                           target: "_blank",
@@ -1243,17 +1243,17 @@
                                       children: [
                                         Object(c.jsx)("p", {
                                           className: "title",
-                                          children: "Crafts for kids",
+                                          children: "Freestyle Dance",
                                         }),
                                         Object(c.jsx)("p", {
                                           children: Object(c.jsx)("small", {
                                             children: Object(c.jsxs)("b", {
                                               children: [
-                                                "27",
+                                                "20",
                                                 Object(c.jsx)("sup", {
                                                   children: "th",
                                                 }),
-                                                " FEB | 11.30 AM",
+                                                " MARCH | 4.30 PM",
                                               ],
                                             }),
                                           }),
@@ -1263,7 +1263,7 @@
                                             children: [
                                               "BY ",
                                               Object(c.jsx)("b", {
-                                                children: "Gitanjali",
+                                                children: "Dharani",
                                               }),
                                             ],
                                           }),
@@ -1272,7 +1272,7 @@
                                           className:
                                             "btn-rn typeform-share button",
                                           href:
-                                            "https://linktr.ee/LittleMaster",
+                                            "https://form.typeform.com/to/XptehQmk",
                                           "data-mode": "popup",
                                           "data-size": "100",
                                           target: "_blank",
@@ -1288,17 +1288,17 @@
                                       children: [
                                         Object(c.jsx)("p", {
                                           className: "title",
-                                          children: "Calligraphy for kids",
+                                          children: "Guitar",
                                         }),
                                         Object(c.jsx)("p", {
                                           children: Object(c.jsx)("small", {
                                             children: Object(c.jsxs)("b", {
                                               children: [
-                                                "27",
+                                                "20",
                                                 Object(c.jsx)("sup", {
                                                   children: "th",
                                                 }),
-                                                " FEB | 5 PM",
+                                                " MAR | 2 PM",
                                               ],
                                             }),
                                           }),
@@ -1308,7 +1308,7 @@
                                             children: [
                                               "BY ",
                                               Object(c.jsx)("b", {
-                                                children: "NEHA",
+                                                children: "Nathan",
                                               }),
                                             ],
                                           }),
@@ -1317,7 +1317,7 @@
                                           className:
                                             "btn-rn typeform-share button",
                                           href:
-                                            "https://linktr.ee/LittleMaster",
+                                            "https://form.typeform.com/to/XptehQmk",
                                           "data-mode": "popup",
                                           "data-size": "100",
                                           target: "_blank",
@@ -1330,20 +1330,22 @@
                                     children: Object(c.jsxs)("div", {
                                       className:
                                         "container-fluid d-flex justify-content-center align-items-center flex-column pt-5",
-                                      children: [
+                                        style: {position: "relative", bottom: "5%"},
+                                        children: [
                                         Object(c.jsx)("p", {
                                           className: "title",
+                                          
                                           children: "Water colour painting",
                                         }),
                                         Object(c.jsx)("p", {
                                           children: Object(c.jsx)("small", {
                                             children: Object(c.jsxs)("b", {
                                               children: [
-                                                "28",
+                                                "20",
                                                 Object(c.jsx)("sup", {
                                                   children: "th",
                                                 }),
-                                                " FEB |  PM",
+                                                " MAR | 11.30 AM",
                                               ],
                                             }),
                                           }),
@@ -1353,7 +1355,7 @@
                                             children: [
                                               "BY ",
                                               Object(c.jsx)("b", {
-                                                children: "SAKSHI",
+                                                children: "Sakshi",
                                               }),
                                             ],
                                           }),
@@ -1362,7 +1364,7 @@
                                           className:
                                             "btn-rn typeform-share button",
                                           href:
-                                            "https://linktr.ee/LittleMaster",
+                                            "https://form.typeform.com/to/XptehQmk",
                                           "data-mode": "popup",
                                           "data-size": "100",
                                           target: "_blank",
@@ -1649,7 +1651,7 @@
                                             children: [
                                               
                                               Object(c.jsx)("b", {
-                                                children: "\u20b91,500/-",
+                                                children: "\u20b9999/-",
                                               }),
                                               " for 1 Month",
                                             ],
