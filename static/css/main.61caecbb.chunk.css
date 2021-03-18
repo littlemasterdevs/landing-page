@@ -1075,6 +1075,7 @@ transition: all 0.51s var(--g-ease);
 .header .rigth {
   width: 200px;
   float: right;
+  padding-left: 50px;
 }
 .header .btn-login,
 .header .btn-signup,
