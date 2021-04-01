@@ -2090,10 +2090,10 @@
                             children: Object(c.jsx)("button", {
                               className: "btn-login",
                               children: Object(c.jsx)("a", {
-                                href: "https://app.littlemaster.com/",
+                                href: "https://book-a-demo.webflow.io/",
                                 rel: "noreferrer",
                                 target: "_blank",
-                                children: "Login",
+                                children: "Demo",
                               }),
                             }),
                           }),
